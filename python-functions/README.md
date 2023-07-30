@@ -1,0 +1,1 @@
+For all python [1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5DIf you are not sure C has thought you to be a good programmer, here is python functions to  make things much more easier.
